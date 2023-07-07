@@ -1,0 +1,28 @@
+h1{
+    color: black;
+    margin-left: auto;
+    margin-right: auto;
+    width: 12em;
+}
+
+h2{
+    margin-left: auto;
+    margin-right: auto;
+    width: 14em;   
+}
+
+h3{
+    text-align:center;
+}
+
+h4{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50em;
+   
+}
+
+body{
+    background-image: url("https://tsukatte.com/wp-content/uploads/2021/01/cloud-pattern.png");
+}
+
